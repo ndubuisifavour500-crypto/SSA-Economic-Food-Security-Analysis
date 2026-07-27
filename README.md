@@ -125,3 +125,11 @@ While Sub-Saharan Africa has achieved significant economic growth over six decad
 ---
 
 ## Repository Contents
+SSA-Economic-Food-Security-Analysis/
+├── README.md
+├── SSA_Capstone_Final_Report.pdf
+├── SSA_Economic_Food_Security_Analysis.pbix
+├── SSA_Economic_Food_Security_Analysis.csv
+├── dashboard-overview.png
+├── dashboard-kpi-cards.png
+└── dashboard-charts.png
